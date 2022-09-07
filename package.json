@@ -16,19 +16,25 @@
     "jest": "^26.6.3",
     "jest-expo": "^46.0.1",
     "react": "18.0.0",
+    "react-content-loader": "^6.2.0",
     "react-dom": "18.0.0",
     "react-native": "0.69.4",
+    "react-native-loading-placeholder": "^0.0.6",
     "react-native-web": "~0.18.7"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
-    "@types/react": "~18.0.14",
+    "@testing-library/jest-native": "^4.0.11",
+    "@testing-library/react-native": "^11.0.0",
+    "@types/jest": "^29.0.0",
+    "@types/react": "~18.0.0",
     "@types/react-native": "~0.69.1",
     "@typescript-eslint/eslint-plugin": "^5.35.1",
     "@typescript-eslint/parser": "^5.35.1",
     "eslint": "^8.22.0",
     "eslint-config-universe": "^11.1.0",
     "prettier": "^2.7.1",
+    "ts-node": "^10.9.1",
     "typescript": "~4.3.5"
   },
   "private": true
