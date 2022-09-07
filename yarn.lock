@@ -7529,7 +7529,7 @@ prompts@^2.0.1, prompts@^2.2.1, prompts@^2.3.2, prompts@^2.4.0:
     kleur "^3.0.3"
     sisteransi "^1.0.5"
 
-prop-types@^15.5.10, prop-types@^15.8.1:
+prop-types@^15.8.1:
   version "15.8.1"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.8.1.tgz#67d87bf1a694f48435cf332c24af10214a3140b5"
   integrity sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==
@@ -7651,13 +7651,6 @@ react-native-gradle-plugin@^0.0.7:
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/react-native-gradle-plugin/-/react-native-gradle-plugin-0.0.7.tgz#96602f909745239deab7b589443f14fce5da2056"
   integrity sha512-+4JpbIx42zGTONhBTIXSyfyHICHC29VTvhkkoUOJAh/XHPEixpuBduYgf6Y4y9wsN1ARlQhBBoptTvXvAFQf5g==
-
-react-native-loading-placeholder@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/react-native-loading-placeholder/-/react-native-loading-placeholder-0.0.6.tgz#d187c3f88376ce3f2151b97feb9d5fb615250ebe"
-  integrity sha512-GPPqnZjyZ8lKfL+QqxcjN/paNsVc7bxAy5WLGVU0YESRCR4SISz8gQkkNtHOCWuMNaEfLrJokVtaL2vDkRGbrQ==
-  dependencies:
-    prop-types "^15.5.10"
 
 react-native-web@~0.18.7:
   version "0.18.7"

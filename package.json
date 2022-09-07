@@ -19,7 +19,6 @@
     "react-content-loader": "^6.2.0",
     "react-dom": "18.0.0",
     "react-native": "0.69.4",
-    "react-native-loading-placeholder": "^0.0.6",
     "react-native-web": "~0.18.7"
   },
   "devDependencies": {
